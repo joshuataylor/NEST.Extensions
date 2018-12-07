@@ -56,4 +56,4 @@ public class MyElasticsearchStartupConfiguration : IElasticsearchStartupConfigur
 ## Roadmap
 
 - Better Configure handler
-- Experiement with Migrations
+- Experiment with Migrations
